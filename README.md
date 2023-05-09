@@ -41,15 +41,15 @@ Notes:
 
 | Prototype                                       | PCB Manufacturing                               |
 |-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/06-photo-coming-soon.jpg)         | ![](Resources/15-photo-coming-soon.jpg)         |
+| ![](Resources/05-photo-coming-soon.jpg)         | ![](Resources/06-photo-coming-soon.jpg)         |
 
 | PCB Assembly                                    | Project Assembly                                |
 |-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/19-photo-coming-soon.jpg)           | ![](Resources/24-photo-coming-soon.jpg)       |
+| ![](Resources/07-photo-coming-soon.jpg)         | ![](Resources/08-photo-coming-soon.jpg)         |
 
 | Project Final                                   | Project Final (YouTube video)                   |
 |-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/25-photo-coming-soon.jpg)          | ![](Resources/26-photo-coming-soon.jpg)        |
+| ![](Resources/09-photo-coming-soon.jpg)         | ![](Resources/10-photo-coming-soon.jpg)         |
 
 See 'Rescources' sub-folder for more pictures of the proyect.
 
