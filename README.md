@@ -51,7 +51,7 @@ Notes:
 |-------------------------------------------------|-------------------------------------------------|
 | ![](Resources/09-photo-coming-soon.jpg)         | ![](Resources/10-photo-coming-soon.jpg)         |
 
-See 'Rescources' sub-folder for more pictures of the proyect.
+See 'Rescources' sub-folder for more pictures & videos of the project.
 
 &nbsp;
 
@@ -63,4 +63,4 @@ v1.1 (2023.05.08) - Adding use of sleep mode + interrupts to reduce power consum
 &nbsp;
 
 This source code is licensed under GPL v3.0  
-Please send me your feedback about this app: andres.garcia.alves@gmail.com
+Please send me your feedback about this project: andres.garcia.alves@gmail.com
