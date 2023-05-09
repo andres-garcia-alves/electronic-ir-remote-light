@@ -1,4 +1,4 @@
-# IR Remote Light
+# IR Remote Lights
 
 Arduino code to turn lights on/off using an Infrared (IR) remote control, plus sleep operation for low power consumption.
 
