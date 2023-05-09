@@ -15,9 +15,12 @@ This project use the following electronic components:
 - 1 x Push-button
 
 The circuit:
-- When pressing the toy surface it moves the empty pen tubes, making some presure on the piezo-electric.
-- The piezo-electric generates some voltage on presure, activating the electronic circuit.
-- The NE555 IC handles the 12 seconds enabled delay.
+- After Arduino starts, external interruptions are enabled on it, and it is puted on sleep mode for low power consumption.
+- The IR-sensor is powered directly to 5v (outside from the Arduino).
+- When a remote control button is pressed the infrared code is detectec by the IR-sensor.
+- The IR-sensor wakeup the Arduino board vía an external interruption (allowed pins 2 & 3).
+- The source code uses IRremote v1.4 library to decode the received IR code, and if it is correct, switch on/off a relay.
+- The relay is connected in series within the regular light powering wire.
 
 Notes:
 - IR Codes changes from remote control to remote control.
