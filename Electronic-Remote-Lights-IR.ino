@@ -5,6 +5,7 @@
   
   Version 1.0, 2023.05.07 - Initial release.
   Version 1.1, 2023.05.08 - Adding use of sleep mode + interrupts to reduce power consumption.
+  Version 1.2, 2023.05.11 - Rearrange assigned pins to improve PCB design.
 
   This source code is licensed under GPL v3.0  
 */
@@ -16,8 +17,8 @@
 #define DEBOUNCE_DELAY  50
 
 #define IR_SENSOR       2
-#define RELAY           8
-#define LED_ON          10
+#define LED_ON          A0
+#define RELAY           A7
 
 // codes depends on actual remote control
 #define REMOTE_BTN_1    4151
