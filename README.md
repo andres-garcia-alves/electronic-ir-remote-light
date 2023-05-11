@@ -31,7 +31,7 @@ Notes:
 
 ### Screenshots
 
-| Diagram - Schematics 01                         | Diagram - Schematics 02                         |
+| Diagram - Schematics                            | Diagram - PCB                                   |
 |-------------------------------------------------|-------------------------------------------------|
 | ![](Resources/01-schematic-diagram.png)         | ![](Resources/02-pcb-diagram.png)               |
 
