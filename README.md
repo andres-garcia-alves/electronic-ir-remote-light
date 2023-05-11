@@ -33,11 +33,11 @@ Notes:
 
 | Diagram - Schematics 01                         | Diagram - Schematics 02                         |
 |-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/01-photo-coming-soon.jpg)         | ![](Resources/02-photo-coming-soon.jpg)         |
+| ![](Resources/01-schematic-diagram.png)         | ![](Resources/02-pcb-diagram.png)               |
 
 | Diagram - PCB Render                            | Diagram - PCB Render                            |
 |-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/03-photo-coming-soon.jpg)         | ![](Resources/04-photo-coming-soon.jpg)         |
+| ![](Resources/03-pcb-render-front-side.png)     | ![](Resources/04-pcb-render-back-side.png)      |
 
 | Prototype                                       | PCB Manufacturing                               |
 |-------------------------------------------------|-------------------------------------------------|
