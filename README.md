@@ -1,6 +1,7 @@
 # IR Remote Lights
 
-Arduino code to turn lights on/off using an Infrared (IR) remote control, plus sleep operation for low power consumption.
+Electronic proyect to turn lights on/off using an Infrared (IR) remote control, plus sleep operation for low power consumption.  
+Kicad PCB diagrams & Blender case 3D models are also provided :)
 
 &nbsp;
 
