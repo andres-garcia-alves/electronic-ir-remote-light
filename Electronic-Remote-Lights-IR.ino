@@ -1,5 +1,5 @@
 /*
-  Electronic IR Remote Light v1.1
+  Electronic IR Remote Light v1.2
 
   Created by: Andres Garcia Alves <andres.garcia.alves@gmail.com>
   
@@ -18,7 +18,7 @@
 
 #define IR_SENSOR       2
 #define LED_ON          A0
-#define RELAY           A7
+#define RELAY           A5
 
 // codes depends on actual remote control
 #define REMOTE_BTN_1    4151
@@ -40,6 +40,7 @@ void setup() {
   #endif
 
   pinMode(IR_SENSOR, INPUT_PULLUP);
+  pinMode(LED_ON, OUTPUT);
   pinMode(RELAY, OUTPUT);
 
   irReceiver.enableIRIn();
