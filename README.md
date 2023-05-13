@@ -1,7 +1,7 @@
 # IR Remote Lights
 
 Electronic proyect to turn lights on/off using an Infrared (IR) remote control, plus sleep operation for low power consumption.  
-Kicad PCB diagrams & Blender case 3D models are also provided :)
+Kicad PCB diagrams and Blender case 3D models are also provided :-)
 
 &nbsp;
 
@@ -40,15 +40,15 @@ Notes:
 |-------------------------------------------------|-------------------------------------------------|
 | ![](Resources/03-pcb-render-front-side.png)     | ![](Resources/04-pcb-render-back-side.png)      |
 
-| Prototype                                       | PCB Manufacturing                               |
+| Case - 3D Model                                 | Prototype                                       |
 |-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/05-photo-coming-soon.jpg)         | ![](Resources/06-photo-coming-soon.jpg)         |
+| ![](Resources/05-case-3d-model.png)             | ![](Resources/06-photo-coming-soon.jpg)         |
 
-| PCB Assembly                                    | Project Assembly                                |
+| PCB Manufacturing                               | PCB Assembly                                    |
 |-------------------------------------------------|-------------------------------------------------|
 | ![](Resources/07-photo-coming-soon.jpg)         | ![](Resources/08-photo-coming-soon.jpg)         |
 
-| Project Final                                   | Project Final (YouTube video)                   |
+| Project Assembly                                | Project Final (YouTube video)                   |
 |-------------------------------------------------|-------------------------------------------------|
 | ![](Resources/09-photo-coming-soon.jpg)         | ![](Resources/10-photo-coming-soon.jpg)         |
 
