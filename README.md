@@ -32,25 +32,29 @@ Notes:
 
 ### Screenshots
 
-| Diagram - Schematics                            | Diagram - PCB                                   |
-|-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/01-schematic-diagram.png)         | ![](Resources/02-pcb-diagram.png)               |
+| Diagram - Schematics                               | Diagram - PCB                                      |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](Resources/01-electric-diagram.png)             | ![](Resources/02-pcb-diagram.png)                  |
 
-| Diagram - PCB Render                            | Diagram - PCB Render                            |
-|-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/03-pcb-render-front-side.png)     | ![](Resources/04-pcb-render-back-side.png)      |
+| Diagram - PCB Render                               | Diagram - PCB Render                               |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](Resources/03-pcb-render-front-side.png)        | ![](Resources/04-pcb-render-back-side.png)         |
 
-| Case - 3D Model                                 | Prototype                                       |
-|-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/05-case-3d-model.png)             | ![](Resources/06-photo-coming-soon.jpg)         |
+| Case - 3D Model                                    | Prototype                                          |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](Resources/05-case-3d-model.png)                | ![](Resources/06-photo-coming-soon.jpg)            |
 
-| PCB Manufacturing                               | PCB Assembly                                    |
-|-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/07-photo-coming-soon.jpg)         | ![](Resources/08-photo-coming-soon.jpg)         |
+| PCB Manufacturing                                  | PCB Assembly                                       |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](Resources/07-photo-coming-soon.jpg)            | ![](Resources/08-photo-coming-soon.jpg)            |
 
-| Project Assembly                                | Project Final (YouTube video)                   |
-|-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/09-photo-coming-soon.jpg)         | ![](Resources/10-photo-coming-soon.jpg)         |
+| Project Assembly                                   | Diagram - Electric Connections                     |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](Resources/09-photo-coming-soon.jpg)            | ![](Resources/10-electric-connections-diagram.png) |
+
+| Project Final                                      | Project Final (YouTube video)                      |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](Resources/11-photo-coming-soon.jpg)            | ![](Resources/12-photo-coming-soon.jpg)            |
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
