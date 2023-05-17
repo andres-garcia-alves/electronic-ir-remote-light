@@ -34,7 +34,7 @@ Notes:
 
 | Diagram - Schematics                               | Diagram - PCB                                      |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/01-electric-diagram.png)             | ![](Resources/02-pcb-diagram.png)                  |
+| ![](Resources/01-schematic-diagram.png)            | ![](Resources/02-pcb-diagram.png)                  |
 
 | Diagram - PCB Render                               | Diagram - PCB Render                               |
 |----------------------------------------------------|----------------------------------------------------|
