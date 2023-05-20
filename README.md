@@ -65,6 +65,7 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 v1.0 (2023.05.07) - Initial release.  
 v1.1 (2023.05.08) - Adding use of sleep mode + interrupts to reduce power consumption.  
 v1.2 (2023.05.11) - Rearrange assigned pins to improve PCB design.
+v1.3 (2023.05.20) - Rearrange assigned pins to improve PCB design.
 
 &nbsp;
 

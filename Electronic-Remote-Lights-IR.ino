@@ -6,6 +6,7 @@
   Version 1.0, 2023.05.07 - Initial release.
   Version 1.1, 2023.05.08 - Adding use of sleep mode + interrupts to reduce power consumption.
   Version 1.2, 2023.05.11 - Rearrange assigned pins to improve PCB design.
+  Version 1.3, 2023.05.20 - Rearrange assigned pins to improve PCB design.
 
   This source code is licensed under GPL v3.0  
 */
@@ -16,9 +17,9 @@
 #define DEBUG           false
 #define DEBOUNCE_DELAY  50
 
-#define IR_SENSOR       2
-#define LED_ON          A0
-#define RELAY           A5
+#define RELAY           2
+#define IR_SENSOR       3
+#define LED_ON          12
 
 // codes depends on actual remote control
 #define REMOTE_BTN_1    4151
@@ -39,9 +40,9 @@ void setup() {
   Serial.begin(9600);
   #endif
 
+  pinMode(RELAY, OUTPUT);
   pinMode(IR_SENSOR, INPUT_PULLUP);
   pinMode(LED_ON, OUTPUT);
-  pinMode(RELAY, OUTPUT);
 
   irReceiver.enableIRIn();
 
