@@ -1171,7 +1171,6 @@
     )
   )
 
-
   (junction (at 54.61 116.84) (diameter 0) (color 0 0 0 0)
     (uuid 210976f7-b46f-461b-887a-f75bf048ec45)
   )
@@ -1711,7 +1710,7 @@
     (property "Reference" "U1" (id 0) (at 90.17 111.76 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "VS1338B" (id 1) (at 90.17 114.3 0)
+    (property "Value" "VS1838B" (id 1) (at 90.17 114.3 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "OptoDevice:Vishay_MINICAST-3Pin" (id 2) (at 55.88 129.54 0)
@@ -2189,7 +2188,7 @@
       (reference "SW1") (unit 1) (value "RESET") (footprint "Button_Switch_THT:SW_PUSH-12mm")
     )
     (path "/4854008c-3227-404e-9125-8acbd6988fad"
-      (reference "U1") (unit 1) (value "VS1338B") (footprint "OptoDevice:Vishay_MINICAST-3Pin")
+      (reference "U1") (unit 1) (value "VS1838B") (footprint "OptoDevice:Vishay_MINICAST-3Pin")
     )
   )
 )

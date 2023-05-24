@@ -7,8 +7,8 @@ Kicad PCB diagrams and Blender case 3D models are also provided :-)
 
 This project use the following electronic components:
 - 1 x Arduino Nano v3.0
-- 1 x Infrared sensor
-- 1 x Relay 5v
+- 1 x Infrared sensor VS1838B
+- 1 x Relay 5v SRD-05VDC-SL-C
 - 3 x LED 5mm
 - 2 x 4.7k ohm resistors
 - 1 x 470k ohm resistor
