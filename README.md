@@ -1,14 +1,14 @@
 # IR Remote Lights
 
-Electronic proyect to turn lights on/off using an Infrared (IR) remote control, plus sleep operation for low power consumption.  
-Kicad PCB diagrams and Blender case 3D models are also provided :-)
+Electronic proyect to turn lights off/on using an Infrared (IR) remote control, plus sleep operation for low power consumption.  
+Kicad PCB diagrams and Blender case 3D models are also provided ;-)
 
 &nbsp;
 
 This project use the following electronic components:
 - 1 x Arduino Nano v3.0
 - 1 x Infrared sensor VS1838B
-- 1 x Relay 5v SRD-05VDC-SL-C
+- 1 x Relay SRD-05VDC-SL-C (5V)
 - 3 x LED 5mm
 - 2 x 4.7k ohm resistors
 - 1 x 470k ohm resistor
@@ -17,7 +17,7 @@ This project use the following electronic components:
 
 The circuit:
 - After Arduino starts, external interruptions are enabled on it, and it is puted on sleep mode for low power consumption.
-- The IR-sensor is powered directly to 5v (outside from the Arduino).
+- The IR-sensor is powered directly to 5V (outside from the Arduino).
 - When a remote control button is pressed the infrared code is detectec by the IR-sensor.
 - The IR-sensor wakeup the Arduino board vía an external interruption (allowed pins 2 & 3).
 - The source code uses IRremote v1.4 library to decode the received IR code, and if it is correct, switch on/off a relay.
@@ -46,7 +46,7 @@ Notes:
 
 | PCB Manufacturing                                  | PCB Assembly                                       |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/07-photo-coming-soon.jpg)            | ![](Resources/08-photo-coming-soon.jpg)            |
+| ![](Resources/07-pcb-manufacturing.jpg)            | ![](Resources/08-pcb-assembly.jpg)                 |
 
 | Project Assembly                                   | Diagram - Electric Connections                     |
 |----------------------------------------------------|----------------------------------------------------|
