@@ -42,7 +42,7 @@ Notes:
 
 | Case - 3D Model                                    | Prototype                                          |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/05-case-3d-model.png)                | ![](Resources/06-photo-coming-soon.jpg)            |
+| ![](Resources/05-case-3d-model.png)                | ![](Resources/06-prototype.jpg)                    |
 
 | PCB Manufacturing                                  | PCB Assembly                                       |
 |----------------------------------------------------|----------------------------------------------------|
@@ -50,7 +50,7 @@ Notes:
 
 | Project Assembly                                   | Diagram - Electric Connections                     |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/09-photo-coming-soon.jpg)            | ![](Resources/10-electric-connections-diagram.png) |
+| ![](Resources/09-project-assembly.jpg)             | ![](Resources/10-electric-connections-diagram.png) |
 
 | Project Final                                      | Project Final (YouTube video)                      |
 |----------------------------------------------------|----------------------------------------------------|
