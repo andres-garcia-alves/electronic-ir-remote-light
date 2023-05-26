@@ -41,7 +41,7 @@ Notes:
 | ![](Resources/03-pcb-render-front-side.png)        | ![](Resources/04-pcb-render-back-side.png)         |
 |                                                    |                                                    |
 | Case - 3D Model                                    | Prototype                                          |
-|---------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------|----------------------------------------------------|
 | ![](Resources/05-case-3d-model.png)                | ![](Resources/06-prototype.jpg)                    |
 |                                                    |                                                    |
 | PCB Manufacturing                                  | PCB Assembly                                       |
