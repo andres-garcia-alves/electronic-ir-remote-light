@@ -1,7 +1,9 @@
 # IR Remote Lights
 
 Electronic proyect to turn lights off/on using an Infrared (IR) remote control, plus sleep operation for low power consumption.  
-Kicad PCB diagrams and Blender case 3D models are also provided ;-)
+Kicad PCB diagrams and Blender case 3D models are also provided ;-)  
+
+Inspired by video [Sistema de Encendido de Luces Dual de 8 Canales, por Infrarrojo y Pulsadores](https://www.youtube.com/watch?v=uvJIHicDhEo) (spanish) from [CarlosVolt Electrónica & Robótica](https://www.youtube.com/@Carlosvolt) YouTube channel.
 
 &nbsp;
 
