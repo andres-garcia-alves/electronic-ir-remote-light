@@ -42,7 +42,7 @@ Notes:
 
 | Case - 3D Model                                    | Prototype                                          |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/05-case-3d-model.png)                | ![](Resources/06-prototype.jpg)                    |
+| ![](Resources/05-case-3d-model-01.png)             | ![](Resources/06-prototype.jpg)                    |
 
 | PCB Manufacturing                                  | PCB Assembly                                       |
 |----------------------------------------------------|----------------------------------------------------|
@@ -54,7 +54,7 @@ Notes:
 
 | Project Final                                      | Project Final (YouTube video)                      |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/11-photo-coming-soon.jpg)            | ![](Resources/12-photo-coming-soon.jpg)            |
+| ![](Resources/11-project-final-01.jpg)             | [![](Resources/11-project-final-02.jpg)](https://youtu.be/1PuWtelXCS0) |
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
